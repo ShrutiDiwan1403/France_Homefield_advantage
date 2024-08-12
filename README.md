@@ -2,7 +2,13 @@
 **Objective Summary**: Discovering the home-filed advantage for France in forthcoming 2024 Olympic Game.
 
 
-**Project Description**:
+**Description and Insight**: The Olympic game spirit focuses on participation rather than winning. But the ground reality is different;  people consider by-country medal count. The ability of the country to perform and excel in numerous sports  in this prestigious event hinges on various social and economic factors.
+
+
+The methodology used determined the number of medals France is expected to win by taking into account various factors that influence national Olympic success, including the advantage of competing at home. In 2008, data was grouped into three clusters to categorize China's success in winning gold medals and to predict its performance in the Beijing Olympic Games, in order to gain a detailed understanding of the likelihood of winning gold medals in all 301 events.
+
+
+Similarly, the collected data was grouped to reveal France's likelihood of winning medals in the 2024 Olympic games. This process helped in obtaining better insights through exploratory data analysis. Another goal accomplished during this process was determining the percentage of male and female French athletes winning medals, which was found to be 70-30 percent.
 
 
 **Programming Language**: Python
