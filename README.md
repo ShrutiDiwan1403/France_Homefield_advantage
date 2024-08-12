@@ -17,7 +17,7 @@ Similarly, the collected data was grouped to reveal France's likelihood of winni
 **Tools**: Google Colab, Tableau, Weka
 
 
-**Performance Outcome**: Processed data from 37,000 Olympic Games champion records and conducted research to address missing values. Employed data mining techniques to analyze the impact of various factors on a country's home advantage and its position on the scoreboard. Utilized a Multilayer Perceptron in Weka to accurately predict France securing 4th place on the leaderboard.
+**Performance Outcome**: Processed data from 37,000 Olympic Games champion records and conducted research to address missing values. Employed data mining techniques to analyze the impact of various factors on a country's home advantage and its position on the scoreboard. Utilized a Multilayer Perceptron in Weka to accurately predict France securing 5th place on the scoreboard.
 
 
 **Glimpse of exploratory analysis**:
